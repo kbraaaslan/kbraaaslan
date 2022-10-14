@@ -1,8 +1,9 @@
 </h1><h1 align="center" >Hi 👋, I'm Kübra Aslan.
+<br> <br>
 
 ![gif](https://user-images.githubusercontent.com/100874339/195932307-5d0a9ad4-2ca7-47bf-80d8-878029aad098.gif)
 
-
+<br>  
 
 I’m currently learning Python
 

@@ -1,4 +1,4 @@
-</h1><h1 align="center" >Hi 👋
+</h1><h1 align="center" >Hello 👋
   </h1><h1 align="center" > I'm Kübra Aslan.
 <br> <br>
 

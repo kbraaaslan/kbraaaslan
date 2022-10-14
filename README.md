@@ -1,7 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Kübra Aslan.</h1>
 
 ![gif](https://user-images.githubusercontent.com/100874339/195932307-5d0a9ad4-2ca7-47bf-80d8-878029aad098.gif)
-[README.md](https://github.com/kbraaaslan/kbraaaslan/files/9789728/README.md)
 
 
 

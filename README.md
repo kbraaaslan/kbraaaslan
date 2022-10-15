@@ -1,5 +1,5 @@
 </h1><h1 align="center" >Hello 👋
-  </h1><h1 align="center" > I'm Kübra Aslan.
+  </h1><h1 align="center" > I'm Kubra Aslan.
 <br> <br>
 
 ![gif](https://user-images.githubusercontent.com/100874339/195932307-5d0a9ad4-2ca7-47bf-80d8-878029aad098.gif)

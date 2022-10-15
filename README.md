@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg) </h1><h1 align="center" >Hello 👋
+![image title](https://github.com/kbraaaslan/counter.svg) </h1><h1 align="center" >Hello 👋
   </h1><h1 align="center" > I'm Kübra Aslan.
 <br> <br>
 

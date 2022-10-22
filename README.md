@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbraaaslan&label=Profile%20views&color=0e75b6&style=flat" alt="kbraaaslan" /> </p>
 </h1><h1 align="center" >Hello 👋
   </h1><h1 align="center" > I'm Kubra Aslan.
 <br> <br>
